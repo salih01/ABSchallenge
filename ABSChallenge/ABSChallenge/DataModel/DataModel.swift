@@ -19,7 +19,7 @@ struct ABS : Identifiable {
 let ABSData : [ABS] = [
     
     ABS( image: "fit12", title: "HAZIR MISIN SIX PACKLERE ?"),
-    ABS( image: "fit13", title: "HAZIR değilsen başlama aq"),
+    ABS( image: "fit13", title: "HAZIR değilsen başlama "),
     ABS( image: "fit11", title: "Reklamlara tıkla ki para kazanalım ")
 
     
